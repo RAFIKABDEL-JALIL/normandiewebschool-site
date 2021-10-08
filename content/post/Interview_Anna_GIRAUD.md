@@ -14,7 +14,7 @@ seo_image = "/uploads/post/Interview_Anna_Giraud.jpg"
 **Interview d'Anna GIRAUD, en 3ème année à la NWS filière
 Communication graphique**
 
-![postwidth](/uploads/post/Interview_Anna_Giraud.jpg)
+![postwidth](/uploads/post/interview_anna_giraud.jpg)
 )
 
 **Anna, quel est ton parcours ? Ton projet professionnel ?**
