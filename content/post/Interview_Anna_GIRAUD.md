@@ -15,6 +15,7 @@ seo_image = "/uploads/post/Interview_Anna_Giraud.jpg"
 Communication graphique**
 
 ![postwidth](/uploads/post/Interview_Anna_Giraud.jpg)
+)
 
 **Anna, quel est ton parcours ? Ton projet professionnel ?**
 
