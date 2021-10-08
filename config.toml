@@ -1,4 +1,4 @@
-baseURL = "https://normandiewebschool.fr"
+baseURL = "https://confident-bell-9031e0.netlify.app/"
 enableRobotsTXT = true
 languageCode = "fr-fr"
 summaryLength = "10"
