@@ -8,13 +8,13 @@ tags = [
 ]
 date = "2021-04-25"
 archives = "2021"
-seo_image = "/uploads/post/Interview_Anna_Giraud.jpg"
+seo_image = "/uploads/post/interview_anna_giraud.jpg"
 +++
 
 **Interview d'Anna GIRAUD, en 3ème année à la NWS filière
 Communication graphique**
 
-![postwidth](/uploads/post/Interview_Anna_Giraud.jpg)
+![postwidth](/uploads/post/interview_anna_giraud.jpg)
 )
 
 **Anna, quel est ton parcours ? Ton projet professionnel ?**
